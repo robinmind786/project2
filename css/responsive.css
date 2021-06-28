@@ -1,4 +1,4 @@
-
+/*
 @media (min-width: 769px) {
     #contact .contact-address,
     #contact .contact-phone,
@@ -85,7 +85,7 @@
         padding: 15px 0;
         /* height: 74px; */
     }
-    #header .container {
+    /*#header .container {
         -webkit-box-pack: center;
         -ms-flex-pack: center;
         justify-content: center;
@@ -161,5 +161,5 @@
     }
     #contact #google-map {
         margin-top: 20px;
-    }
-}
+    }*/
+}*/
